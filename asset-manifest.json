@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mmer3/static/css/main.f3b167f2.css",
-    "main.js": "/mmer3/static/js/main.fe26edae.js",
-    "index.html": "/mmer3/index.html",
-    "main.f3b167f2.css.map": "/mmer3/static/css/main.f3b167f2.css.map",
-    "main.fe26edae.js.map": "/mmer3/static/js/main.fe26edae.js.map"
+    "main.css": "/Mmer3/static/css/main.f3b167f2.css",
+    "main.js": "/Mmer3/static/js/main.fe26edae.js",
+    "index.html": "/Mmer3/index.html",
+    "main.f3b167f2.css.map": "/Mmer3/static/css/main.f3b167f2.css.map",
+    "main.fe26edae.js.map": "/Mmer3/static/js/main.fe26edae.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b167f2.css",
